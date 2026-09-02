@@ -1,5 +1,5 @@
 # Technical-Writing-Portfolio
-Technical writing samples showcasing structured authoring in DITA, Oxygen XML, MadCap Flare and Ms Word. 
+Technical writing samples showcasing structured authoring in DITA, Oxygen XML, MadCap Flare, and Ms Word. 
 # Claret Louis
 
 Technical writer with a background in English Literature, specializing in DITA, structured authoring, user documentation, and single-sourcing workflows.
@@ -18,7 +18,7 @@ I bring these experiences together with a simple goal: to turn complex informati
 - Oxygen XML Author
 - MadCap Flare 
 - Microsoft Word 
-- Content development, content reuse, single-sourcing
+- Content development, content reuse, and single-sourcing
 - Editing and proofreading
 
 ## Education
