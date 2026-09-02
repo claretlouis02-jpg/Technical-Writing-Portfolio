@@ -10,7 +10,7 @@ I completed a Technical Writing Certification through Authoring Minds (Jan–Jul
 
 ## Skills
 
-- Structured authoring (DITA — concept, task, and reference topics)
+- DITA Structured authoring
 - Oxygen XML Author
 - MadCap Flare 
 - Microsoft Word 
