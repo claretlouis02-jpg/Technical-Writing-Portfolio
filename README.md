@@ -6,7 +6,11 @@ Technical writer with a background in English Literature, specializing in DITA, 
 
 ## About Me
 
-I completed a Technical Writing Certification through Authoring Minds (Jan–Jul 2026), gaining hands-on experience with DITA structured authoring, Oxygen XML Author, and MadCap Flare. My background combines academic and creative writing, including co-authored anthologies and a published research article, with a growing focus on clear, structured technical documentation.
+Words have always been at the centre of what I do—from exploring ideas through literature and research to shaping stories through creative writing. Over time, that interest in language evolved into a curiosity about how complex information can be made simple, meaningful, and accessible.
+
+My journey into technical writing brings that curiosity into documentation. I’ve worked with DITA structured authoring, Oxygen XML, and MadCap Flare, developing documentation across different formats and audiences. Alongside technical writing, my creative writing journey includes co-authoring anthologies, which has strengthened my ability to explore ideas, shape content, and communicate with clarity.
+
+I bring these experiences together with a simple goal: to turn complex information into clear, structured, and purposeful documentation that people can understand and use.
 
 ## Skills
 
@@ -19,9 +23,9 @@ I completed a Technical Writing Certification through Authoring Minds (Jan–Jul
 
 ## Education
 
-- M.A. in English Literature — St. Joseph's College, Tiruchirappalli
-- B.A. in English Literature — Holy Cross College, Tiruchirappalli
-- Technical Writing Certification — Authoring Minds, Hyderabad (2026)
+- M.A. in English Literature — St. Joseph's College, Tiruchirappalli (2024-2026)
+- B.A. in English Literature — Holy Cross College, Tiruchirappalli (2021-2024)
+- Technical Writing Certification — Authoring Minds, Hyderabad (Jan 2026-Jul 2026)
 
 ## Projects
 
@@ -33,5 +37,5 @@ I completed a Technical Writing Certification through Authoring Minds (Jan–Jul
 
 ## Contact
 
-- Email: claretlouis02@gmail.com
+- Email: clrtt002@gmail.com
 - LinkedIn: https://www.linkedin.com/in/claret-louis-1683b9318?utm_source=share_via&utm_content=profile&utm_medium=member_android
