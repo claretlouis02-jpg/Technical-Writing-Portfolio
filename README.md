@@ -6,7 +6,7 @@ Technical writer with a background in English Literature, specializing in DITA, 
 
 ## About Me
 
-Words have always been at the centre of what I do-from exploring ideas through literature and research to shaping stories through creative writing. Over time, that interest in language evolved into a curiosity about how complex information can be made simple, meaningful, and accessible.
+Words have always been at the centre of what I do, from exploring ideas through literature and research to shaping stories through creative writing. Over time, that interest in language evolved into a curiosity about how complex information can be made simple, meaningful, and accessible.
 
 My journey into technical writing brings that curiosity into documentation. I’ve worked with DITA structured authoring, Oxygen XML, and MadCap Flare, developing documentation across different formats and audiences. Alongside technical writing, my creative writing journey includes co-authoring anthologies, which has strengthened my ability to explore ideas, shape content, and communicate with clarity.
 
